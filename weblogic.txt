@@ -1,0 +1,1 @@
+/wls-wsat/CoordinatorPortType	CVE-2017-10271	rce
